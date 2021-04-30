@@ -2,8 +2,11 @@
 	email = noah@noahstride.co.uk
 	signingkey = A359ED1FF1EFCD7B35D44EA83CCCF9F40D60619E
 [alias]
+	br = branch --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(contents:subject) %(color:green)(%(committerdate:relative)) [%(authorname)]' --sort=-committerdate
 	ca = commit -a
+	co = checkout
     c = commit
+	lg = !git log --pretty=format:\"%C(magenta)%h%Creset -%C(red)%d%Creset %s %C(dim green)(%cr) [%an]\" --abbrev-commit -30
 [commit]
 	gpgsign = true
 [gpg]
