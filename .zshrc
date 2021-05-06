@@ -105,3 +105,6 @@ source /usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.z
 
 # Fixes GPG bug
 export GPG_TTY=$(tty)
+
+# Ensure SSH agent is running so keys are automagic
+[ -z "$SSH_AUTH_SOCK" ] && eval "$(ssh-agent -s)"
