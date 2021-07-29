@@ -99,6 +99,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias kubectl-staging="kubectl --kubeconfig /Users/noah/kubeconfigs/kce-staging.yaml"
+alias kubectl-prod="kubectl --kubeconfig /Users/noah/kubeconfigs/kcecp-lon1.yaml"
 
 source /usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.zsh.inc
 source /usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc
@@ -108,3 +110,7 @@ export GPG_TTY=$(tty)
 
 # Ensure SSH agent is running so keys are automagic
 [ -z "$SSH_AUTH_SOCK" ] && eval "$(ssh-agent -s)"
+
+  export NVM_DIR="$HOME/.nvm"
+  [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
+  [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && . "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
