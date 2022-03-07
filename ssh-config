@@ -1,3 +1,14 @@
 Host *
   UseKeychain yes
   AddKeysToAgent yes
+
+Host 185.199.221.244
+  HostName 185.199.221.244
+  User root
+  ForwardAgent yes
+  RemoteForward /run/user/0/gnupg/S.gpg-agent /Users/noah/.gnupg/S.gpg-agent.extra
+
+Host 185.53.57.187
+  HostName 185.53.57.187
+  User root
+  ForwardAgent yes
