@@ -102,3 +102,8 @@ source $ZSH/oh-my-zsh.sh
 
 # Configure GPG signing for git
 export GPG_TTY=$(tty)
+export PATH=/Users/noahstride/.cargo/bin:$PATH
+
+inspect-cert() {
+	openssl x509 -text -noout -in $1;
+}

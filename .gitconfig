@@ -15,3 +15,5 @@
 	program = /opt/homebrew/bin/gpg
 [pull]
 	rebase = false
+[fetch]
+	prune = true
