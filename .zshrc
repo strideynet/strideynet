@@ -107,3 +107,10 @@ export PATH=/Users/noahstride/.cargo/bin:$PATH
 inspect-cert() {
 	openssl x509 -text -noout -in $1;
 }
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/Users/noahstride/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/noahstride/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/Users/noahstride/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/noahstride/google-cloud-sdk/completion.zsh.inc'; fi
+[ -n "$(go env GOPATH)" ] && export PATH="$(go env GOPATH)/bin:${PATH}"

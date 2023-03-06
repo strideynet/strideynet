@@ -1,7 +1,7 @@
 [user]
 	name = Noah Stride
 	email = noah@noahstride.co.uk
-	signingkey = A359ED1FF1EFCD7B35D44EA83CCCF9F40D60619E
+	signingkey = ~/.ssh/id_ed25519
 [alias]
 	br = branch --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(contents:subject) %(color:green)(%(committerdate:relative)) [%(authorname)]' --sort=-committerdate
 	ca = commit -a
@@ -12,7 +12,7 @@
 [commit]
 	gpgsign = true
 [gpg]
-	program = /opt/homebrew/bin/gpg
+	format = ssh
 [pull]
 	rebase = false
 [fetch]
