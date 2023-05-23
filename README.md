@@ -9,6 +9,7 @@ FOSS is awesome, and I've made a few contributions here and there. Here are
 projects I'm a maintainer of:
 
 - https://github.com/zmb3/spotify
+- https://github.com/strideynet/bsky-furry-feed
 
 See https://github.com/strideynet.keys for my SSH keys. I use these for signing
 too!
