@@ -17,5 +17,6 @@ For all the details, check out my [CV](https://noahstride.co.uk/cv).
 FOSS is awesome, and I've made a few contributions here and there. Here are
 projects I'm a maintainer of:
 
+- https://github.com/spiffe/spiffe
 - https://github.com/zmb3/spotify
 - https://github.com/strideynet/bsky-furry-feed
