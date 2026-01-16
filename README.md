@@ -1,22 +1,19 @@
 ## Howdy
 
-Hey! I’m Noah, a software engineer based in London. Outside of work, you can find me DJing, climbing or playing video games. I’m a huge music fiend and can almost always be found listening to music. In the winter, I’ll often be seen hitting the slopes.
+Hey! I'm Noah, a software engineer based in London, UK.
 
-I have a blog (that I sometimes update) at https://noahstride.co.uk.
+You can find my corner of the internet at https://noahstride.co.uk.
 
 ## 👨‍💻 Work
 
-I’m a product-focussed engineer on a mission to meet users’ needs - whether they be an internal team or a customer. You’ll find me happiest in a role which lets me engage with users and participate actively in the product process, and solve plenty of challenging technical problems!
+For the last four years or so, I've worked for a company called Teleport where I lead the Machine & Workload Identity team. My team builds helps organisations give identities to machines & workloads that remove the need for long-lived secrets!
 
-I currently lead a team that builds products in the workload identity space (an emerging field that’s captured my heart), but over the past few years I’ve worked as a backend engineer and SRE at a variety of startups.
+Outside of my role at Teleport, I'm a member of SPIFFE's Steering Committee and a maintainer of the SPIFFE specifications. SPIFFE (the Secure Production Identity Framework for Everyone) is a set of open standards for securely identifying software systems in dynamic and heterogeneous environments.
 
-For all the details, check out my [CV](https://noahstride.co.uk/cv).
+I've been gainfully employed as a software engineer since 2016 and since then I've worked for a variety of startups. Over time, my focus has been drawn to distributed systems & infrastructure. I consider myself a pretty product-oriented engineer - I'm primarily driven by solving problems for my customers.
 
-## GitHub
+## ✨ Life
 
-FOSS is awesome, and I've made a few contributions here and there. Here are
-projects I'm a maintainer of:
+I'll be the first to admit that I'm a bit of a geek and that extends to my hobbies - whether it's screwing around in my homelab or bouncing off the ionosphere as M9OTT.
 
-- https://github.com/spiffe/spiffe
-- https://github.com/zmb3/spotify
-- https://github.com/strideynet/bsky-furry-feed
+But life isn't all about technology! I'm a huge music fiend and you'll pretty much always find me listening to something. In the summer, I love to get out running and in the winter, you'll see me out skiing on the slopes.
