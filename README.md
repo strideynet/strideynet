@@ -14,6 +14,6 @@ I've been gainfully employed as a software engineer since 2016 and since then I'
 
 ## ✨ Life
 
-I'll be the first to admit that I'm a bit of a geek and that extends to my hobbies - whether it's screwing around in my homelab or bouncing off the ionosphere as M9OTT.
+I'll be the first to admit that I'm a bit of a geek and that extends to my hobbies - whether it's screwing around in my homelab or bouncing off the ionosphere as G5OTT.
 
 But life isn't all about technology! I'm a huge music fiend and you'll pretty much always find me listening to something. In the summer, I love to get out running and in the winter, you'll see me out skiing on the slopes.
