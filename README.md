@@ -6,7 +6,7 @@ You can find my corner of the internet at https://noahstride.co.uk.
 
 ## 👨‍💻 Work
 
-For the last four years or so, I've worked for a company called Teleport where I lead the Machine & Workload Identity team. My team builds helps organisations give identities to machines & workloads that remove the need for long-lived secrets!
+For the last four years or so, I've worked for a company called Teleport where I lead the Machine & Workload Identity team. My team helps organisations give identities to machines & workloads that remove the need for long-lived secrets!
 
 Outside of my role at Teleport, I'm a member of SPIFFE's Steering Committee and a maintainer of the SPIFFE specifications. SPIFFE (the Secure Production Identity Framework for Everyone) is a set of open standards for securely identifying software systems in dynamic and heterogeneous environments.
 
